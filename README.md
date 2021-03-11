@@ -1,26 +1,19 @@
 ### Hi there 👋
 
-I am a student with a lot of interest in programming. I want to expand my knowledge as much as possible but right now I am focusing more on web/mobile development and parallel programming.
+I am a student with a lot of interest in programming. I want to expand my knowledge as much as possible but right now I am focusing more on web development and parallel programming.
 
 Even so, you may find a repository that you find interesting from another field.
-<!--
-**laurentiuNedelcu/laurentiuNedelcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ---
-<img align="left" alt="Laurentiu Nedelcu GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laurentiuNedelcu&show_icons=true&hide_border=true"> <br />
-
+<img alt="Laurentiu Nedelcu GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laurentiuNedelcu&show_icons=true&hide_border=true"> <br />
 
 ---
-<img align="left" alt="Laurentiu Nedelcu Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurentiuNedelcu&show_icons=true&hide_border=true">
+More about me:
+- 🔭 I’m currently working on my final degree project and finishing my last year of University.
+- 🌱 I’m currently learning like everything 😂. However, I'm focused more on web development and parallel programming.
+- ✨ I'm also interested in learning about cybersecurity and all the topics related to networks. 
+- ✋🏽 I’d like to collaborate on open source projects in the future and contribute more to the community.
+- 🧑🏽‍💻 Languages: Python, C, C++, Java, JavaScript, HTML/Css, Kotlin.
+- 📫 How to reach me: [Linkedin.](https://www.linkedin.com/in/laurentiu-nedelcu-3b09361a3/)
+- 😄 Pronouns: just call me Lauren if you find it difficult.
+- 💬 Ask me everything you want to know. I'm not saying I have all the answers, but maybe I know the one you're looking for.
