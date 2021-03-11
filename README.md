@@ -17,3 +17,6 @@ More about me:
 - 📫 How to reach me: [Linkedin.](https://www.linkedin.com/in/laurentiu-nedelcu-3b09361a3/)
 - 😄 Pronounce: just call me Lauren if you find it difficult.
 - 💬 Ask me everything you want to know. I'm not saying I have all the answers, but maybe I know the one you're looking for.
+
+---
+<img alt="Laurentiu Nedelcu GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurentiuNedelcu&show_icons=true&hide_border=true"> <br />
