@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 ---
 <img align="left" alt="Laurentiu Nedelcu GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laurentiuNedelcu&show_icons=true&hide_border=true">
 
+<br>
 ---
 <img align="left" alt="Laurentiu Nedelcu Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurentiuNedelcu&show_icons=true&hide_border=true">
