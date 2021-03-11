@@ -2,7 +2,7 @@
 
 I am a student with a lot of interest in programming. I want to expand my knowledge as much as possible but right now I am focusing more on web development and parallel programming.
 
-Even so, you may find a repository that you find interesting from another field.
+Even so, you may find a repository that might interests you from another field.
 
 ---
 <img alt="Laurentiu Nedelcu GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laurentiuNedelcu&show_icons=true&hide_border=true"> <br />
