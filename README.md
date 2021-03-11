@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a student with a lot of interest in programming. I want to expand my knowledge as much as possible but right now I am focusing more on web/mobile development and parallel programming.
+
+Even so, you may find a repository that you find interesting from another field.
 <!--
 **laurentiuNedelcu/laurentiuNedelcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +20,6 @@ Here are some ideas to get you started:
 
 ---
 <img align="left" alt="Laurentiu Nedelcu GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laurentiuNedelcu&show_icons=true&hide_border=true">
+
+---
+<img align="left" alt="Laurentiu Nedelcu Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurentiuNedelcu&show_icons=true&hide_border=true">
