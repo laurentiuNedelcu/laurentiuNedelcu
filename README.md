@@ -15,5 +15,3 @@ More about me:
 - ✋🏽 I’d like to collaborate on open source projects in the future and contribute more to the community.
 - 🧑🏽‍💻 Languages: Python, C, C++, Java, JavaScript, HTML/Css, Kotlin.
 - 📫 How to reach me: [Linkedin.](https://www.linkedin.com/in/laurentiu-nedelcu-3b09361a3/)
-- 😄 Pronounce: just call me Lauren if you find it difficult.
-- 💬 Ask me everything you want to know. I'm not saying I have all the answers, but maybe I know the one you're looking for.
